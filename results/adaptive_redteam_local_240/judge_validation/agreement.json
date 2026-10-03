@@ -1,0 +1,15 @@
+{
+  "human_vs_judge": "no labeled file found (see export step)",
+  "judge_vs_cross_judge": {
+    "n": 240,
+    "tp": 18,
+    "tn": 42,
+    "fp": 1,
+    "fn": 179,
+    "accuracy": 0.25,
+    "precision": 0.9473684210526315,
+    "recall": 0.09137055837563451,
+    "specificity": 0.9767441860465116,
+    "kappa": 0.02601794652117062
+  }
+}

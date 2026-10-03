@@ -1,0 +1,7 @@
+{
+  "experiment": "adaptive_redteam_v1_hf_full",
+  "tests_total": 1,
+  "tests_valid": 0,
+  "asr_by_arm": {},
+  "main_comparison_A_vs_E": null
+}

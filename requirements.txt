@@ -1,0 +1,13 @@
+groq>=0.11.0
+pyyaml>=6.0
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
+python-dotenv>=1.0
+tqdm>=4.66
+pytest>=7.4
+# optional: better embeddings and a UMAP map (falls back to TF-IDF / t-SNE without them)
+# sentence-transformers>=2.7
+# umap-learn>=0.5
+openai>=1.40

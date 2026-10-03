@@ -1,0 +1,29 @@
+2026-10-03 12:15:16,318 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-03 12:15:17,444 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-03 12:15:46,222 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-03 12:15:47,120 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-03 12:15:47,730 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-03 12:15:48,490 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-03 12:15:50,373 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-03 12:15:52,060 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-10-03 12:15:54,010 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-10-03 12:15:55,360 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-03 12:15:57,078 | INFO    | httpx2 | HTTP Request: POST https://router.huggingface.co/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-03 12:15:57,088 | INFO    | experiments.judge_validation | Wrote 0 rows to /Users/mitravarun/Desktop/AutoRedTeam/data/human_labels/adaptive_redteam_v1_hf_full_to_label.csv
+2026-10-03 12:16:01,757 | INFO    | analysis.plots | Saved /Users/mitravarun/Desktop/AutoRedTeam/results/adaptive_redteam_v1_hf_full/figures/main/fig01_architecture.png
+2026-10-03 12:16:01,766 | INFO    | analysis.plots | Skipping fig02_asr_by_round (not enough data yet)
+2026-10-03 12:16:01,854 | INFO    | analysis.plots | Saved /Users/mitravarun/Desktop/AutoRedTeam/results/adaptive_redteam_v1_hf_full/figures/main/fig03_cumulative_unique_failures.png
+2026-10-03 12:16:01,854 | INFO    | analysis.plots | Skipping fig04_asr_by_category (not enough data yet)
+2026-10-03 12:16:01,855 | INFO    | analysis.plots | Skipping fig05_principle_category_heatmap (not enough data yet)
+2026-10-03 12:16:01,862 | INFO    | analysis.plots | Skipping fig06_severity_distribution (not enough data yet)
+2026-10-03 12:16:01,862 | INFO    | analysis.plots | Skipping fig07_ablation (not enough data yet)
+2026-10-03 12:16:01,862 | INFO    | analysis.plots | Skipping fig08_transfer_matrix (not enough data yet)
+2026-10-03 12:16:01,862 | INFO    | analysis.plots | Skipping fig09_human_vs_judge (not enough data yet)
+2026-10-03 12:16:01,968 | INFO    | analysis.plots | Saved /Users/mitravarun/Desktop/AutoRedTeam/results/adaptive_redteam_v1_hf_full/figures/main/fig10_diversity.png
+2026-10-03 12:16:01,969 | INFO    | analysis.plots | Skipping fig11_embedding_map (not enough data yet)
+2026-10-03 12:16:01,970 | INFO    | analysis.plots | Skipping fig12_effect_sizes (not enough data yet)
+2026-10-03 12:16:01,970 | INFO    | analysis.plots | Skipping fig13_judge_calibration (not enough data yet)
+2026-10-03 12:16:02,025 | INFO    | analysis.plots | Saved /Users/mitravarun/Desktop/AutoRedTeam/results/adaptive_redteam_v1_hf_full/figures/appendix/fig14_generator_refusals.png
+2026-10-03 12:16:02,025 | INFO    | analysis.plots | Skipping fig15_latency_tokens (not enough data yet)
+2026-10-03 12:16:02,027 | INFO    | analysis.plots | Skipping fig16_per_seed_asr (not enough data yet)
+2026-10-03 12:16:02,027 | INFO    | analysis.plots | Skipping fig17_shuffled_vs_real (not enough data yet)

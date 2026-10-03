@@ -1,0 +1,4 @@
+2026-10-03 11:20:20,804 | INFO    | main | Experiment 'adaptive_redteam_v1' | targets=['qwen32b'] | seeds=[0, 1, 2] | rounds=10 x 20 tests
+2026-10-03 11:20:21,691 | INFO    | main | Experiment 'adaptive_redteam_v1' | targets=['qwen32b'] | seeds=[0, 1, 2] | rounds=10 x 20 tests
+2026-10-03 11:20:22,282 | INFO    | main | Experiment 'adaptive_redteam_v1' | targets=['qwen27b', 'gptoss20b'] | seeds=[0, 1, 2] | rounds=10 x 20 tests
+2026-10-03 11:20:23,272 | ERROR   | analysis.report | No run data found in /Users/mitravarun/Desktop/AutoRedTeam/data/raw/adaptive_redteam_v1/runs. Run an experiment first.

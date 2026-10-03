@@ -1,0 +1,29 @@
+{
+  "experiment": "adaptive_redteam_local_240",
+  "status": "complete",
+  "stage": "finished",
+  "expected_run_slots": 240,
+  "completed_stages": [
+    "local_models",
+    "experiments",
+    "transfer",
+    "human_label_export",
+    "cross_judge",
+    "analysis"
+  ],
+  "human_validation": "pending manual review",
+  "weights_deleted": true,
+  "updated_at": "2026-10-03T09:19:18.485137+00:00",
+  "current_target": "smol036",
+  "current_arm": "F",
+  "records_saved": 240,
+  "valid_records": 240,
+  "expected_transfer_records": 132,
+  "transfer_records": 132,
+  "transfer_valid": 132,
+  "cross_judge_records": 240,
+  "cross_judge_valid": 240,
+  "figures_verified": 14,
+  "automated_stages_successful": true,
+  "reclaimed_bytes": 1995125760
+}

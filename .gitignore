@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+service-account*.json
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Local dependencies and downloaded model files
+.local-runtime/
+.local-models/

@@ -1,0 +1,8 @@
+{
+  "reason": "Unloading unused models to reduce memory use; all model and experiment parameters unchanged",
+  "discovery_records_preserved": 240,
+  "parsed_discovery_records": 240,
+  "transfer_records_preserved": 18,
+  "loading_strategy": "At most two models for discovery/transfer; only cross-judge during cross-judging",
+  "prior_strategy": "All three models resident"
+}

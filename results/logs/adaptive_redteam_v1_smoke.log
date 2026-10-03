@@ -1,0 +1,27 @@
+2026-10-02 19:02:18,686 | INFO    | main | Experiment 'adaptive_redteam_v1_smoke' | targets=['qwen27b'] | seeds=[0] | rounds=2 x 4 tests
+2026-10-02 19:02:27,845 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 14.0s
+2026-10-02 19:02:34,028 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 0.9s
+2026-10-02 19:02:37,059 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 2 in 11.0s
+2026-10-02 19:02:43,711 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 2 in 1.8s
+2026-10-02 19:02:45,558 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 3 in 4.7s
+2026-10-02 19:02:48,575 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 3 in 4.3s
+2026-10-02 19:02:51,781 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 4 in 8.9s
+2026-10-02 19:02:58,910 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 0.9s
+2026-10-02 19:03:04,942 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 5 in 13.1s
+2026-10-02 19:03:07,961 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 56.0s
+2026-10-03 11:21:02,958 | INFO    | main | Experiment 'adaptive_redteam_v1_smoke' | targets=['qwen27b'] | seeds=[0] | rounds=2 x 4 tests
+2026-10-03 11:21:13,642 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 16.0s
+2026-10-03 11:21:29,748 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 2 in 26.0s
+2026-10-03 11:21:58,642 | INFO    | experiments.runner | A seed=0 target=qwen27b round=1: 4 tests, ASR=0.00
+2026-10-03 11:22:01,924 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 40.0s
+2026-10-03 11:22:04,929 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 37.0s
+2026-10-03 11:22:45,020 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 2 in 43.0s
+2026-10-03 11:22:49,011 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 39.0s
+2026-10-03 11:23:31,066 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 3 in 4.5s
+2026-10-03 11:23:35,415 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 0.8s
+2026-10-03 11:23:38,420 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 4 in 8.3s
+2026-10-03 11:23:41,429 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 2 in 1.9s
+2026-10-03 11:23:47,425 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 20.0s
+2026-10-03 11:23:50,418 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 5 in 19.0s
+2026-10-03 11:24:10,491 | WARNING | utils.groq_client | RateLimitError on qwen/qwen3.8-27b, retry 1 in 36.0s
+2026-10-03 11:24:48,910 | INFO    | experiments.runner | A seed=0 target=qwen27b round=2: 3 tests, ASR=0.00

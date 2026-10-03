@@ -1,0 +1,32 @@
+{
+  "experiment": "adaptive_redteam_local_240",
+  "tests_total": 240,
+  "tests_valid": 240,
+  "asr_by_arm": {
+    "A": 0.825,
+    "B": 0.9,
+    "C": 0.725,
+    "D": 0.725,
+    "E": 0.825,
+    "F": 0.925
+  },
+  "main_comparison_A_vs_E": {
+    "arm_a": "A",
+    "arm_b": "E",
+    "n_a": 40,
+    "n_b": 40,
+    "asr_a": 0.825,
+    "asr_a_lo": 0.6804970794560755,
+    "asr_a_hi": 0.9125469700311694,
+    "asr_b": 0.825,
+    "asr_b_lo": 0.6804970794560755,
+    "asr_b_hi": 0.9125469700311694,
+    "diff": 0.0,
+    "diff_lo": -0.17499999999999993,
+    "diff_hi": 0.17499999999999993,
+    "cohens_h": 0.0,
+    "p_paired_perm": 1.0,
+    "n_matched_units": 4,
+    "p_holm": 1.0
+  }
+}

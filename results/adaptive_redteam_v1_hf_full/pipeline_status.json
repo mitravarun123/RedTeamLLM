@@ -1,0 +1,15 @@
+{
+  "experiment": "adaptive_redteam_v1_hf_full",
+  "status": "interrupted",
+  "stage": "experiments",
+  "expected_run_slots": 7200,
+  "completed_stages": [
+    "preflight"
+  ],
+  "human_labels": "manual labeling required",
+  "updated_at": "2026-10-03T06:46:02.028718+00:00",
+  "error": "HF APIStatusError (HTTP 402) for openai/gpt-oss-120b",
+  "records_saved": 1,
+  "valid_records": 0,
+  "partial_analysis_saved": true
+}

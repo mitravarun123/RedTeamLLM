@@ -1,0 +1,29 @@
+registry:
+  gptoss120b:
+    id: openai/gpt-oss-120b
+    family: gpt-oss
+    provider: hf
+    rpm: 30
+    extra: {reasoning_effort: low}
+  gptoss20b:
+    id: openai/gpt-oss-20b
+    family: gpt-oss
+    provider: hf
+    rpm: 30
+    extra: {reasoning_effort: low}
+  qwen3_8b:
+    id: Qwen/Qwen3-8B
+    family: qwen
+    provider: hf
+    rpm: 30
+  llama31_8b:
+    id: meta-llama/Llama-3.1-8B-Instruct
+    family: llama
+    provider: hf
+    rpm: 30
+
+roles:
+  generator: gptoss120b
+  judge: gptoss120b
+  cross_judge: qwen3_8b
+  default_targets: [qwen3_8b, llama31_8b]
