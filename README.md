@@ -58,3 +58,4 @@ The runner preserves completed interactions for resume, loads only the models ne
 Raw model outputs can contain harmful text. They are git-ignored. Before sharing data, set
 `save_raw_responses: false` or release only aggregate results and a filtered dataset.
 Sexual content and CBRN uplift are deliberately out of scope.
+# RedTeamLLM
